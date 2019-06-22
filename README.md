@@ -4,73 +4,92 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|Biro Akihiro|
+|Blog|[FUN YOU BLOG](http://blog.alfebelow.com/)|
+|Twitter|[@alfe_below](https://twitter.com/alfe_below)|
+|Qiita|[@alfe_below](https://qiita.com/alfe_below)|
+|他|[alfebelow.com](https://alfebelow.com/)|
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
-- Java
-- などなど
+- JavaScript
+- TypeScript
+- HTML/CSS
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- React + Redux
+  - 現在使用中
+
+- Backbone + Marionette
+  - 業務システム構築
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
-## 言語
-
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+- Design System
+- セキュリティ（特にCVSSやCWEなど脆弱性に関するもの）
+- ガラケー・メールで描画するHTMLページ制作
+- jQuery
+- GraphQL
+- Cypress（E2E Test）
+- AWS
+- GCP（特にFirebase）
+- Unity
+- Blender
+- 応用情報技術者試験（2012年04月）
+- 日商簿記2級（2012年06月）
 
 ## 強み
 
+- フルスクラッチの状態からアプリ画面の実装を行える
+  - React+TypeScript+GraphQLの環境構築
+  - jQueryなど使わない生ES5+CSSのアプリ構築
+  - [競技プログラミング向けビジュアライザー作成](https://qiita.com/alfe_below/items/eb3a2fdfee384fa45e96) など
+
+
 ## やったことはないが興味があるもの
 
-## 職務経歴
+- UI全般
+  - Web画面だけでなく、ゲーム・スマホ・VRのUI設計や開発に興味がある
 
-### yyyy/mm - 現在 : 会社名
-
-職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
 
 ## 課外活動
 
+### 執筆歴
+- [Qiita](https://qiita.com/alfe_below)
+- [Software Design 2018年1月号](https://gihyo.jp/magazine/SD/archive/2018/201801)
+- [Software Design 2017年10月号](https://gihyo.jp/magazine/SD/archive/2017/201710)
+- [アカリク Vol.9](https://acaric.co.jp/files/freepaper-acaric-vol9.pdf)
+
+#### 技術系同人誌
+- [超絶CSS技法](https://twitter.com/alfe_below/status/894533114537549828)(C92)
+- [ゆるスタック](https://twitter.com/choumirai/status/814096742014562305)(C91・技術書典2)
+- 銀インク本(C90)
+
 ### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+- [RECTY](http://recty.strikingly.com/)
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+- [slideshare](https://www.slideshare.net/alfe_below)
 
 ### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+- [IoTグローバルアントレプレナー・プロジェクト](https://www.sansokan.jp/events/eve_detail.san?H_A_NO=18279) 優勝
 
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+## 職務経歴
+
+### 2016/4 - 現在 : フューチャー株式会社
+
+職務: Webアプリケーションエンジニア
+
+#### コールセンター向けオペレーションシステム構築
+
+- 独自言語で実装された画面をBackbone + Marionetteを用いて画面改修
+
+#### イベント向けデモ画面構築
+
+- GoogleMapAPIを用いたイベント向けのデモ画面構築
+
+#### 新聞社向け基幹システム構築
+
+- 記者向けにカスタマイズされたCMSの画面構築

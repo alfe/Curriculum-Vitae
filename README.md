@@ -32,6 +32,7 @@
 - jQuery
 - GraphQL
 - Cypress（E2E Test）
+- Vue.js
 - AWS
 - GCP（特にFirebase）
 - Unity
@@ -93,3 +94,7 @@
 #### 新聞社向け基幹システム構築
 
 - 記者向けにカスタマイズされたCMSの画面構築
+
+#### FutureVuls
+
+- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の

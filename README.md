@@ -97,4 +97,4 @@
 
 #### FutureVuls
 
-- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の
+- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の画面統括

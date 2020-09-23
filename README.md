@@ -4,7 +4,6 @@
 
 |key|value|
 |---|-----|
-|Name|Biro Akihiro|
 |Blog|[FUN YOU BLOG](http://blog.alfebelow.com/)|
 |Twitter|[@alfe_below](https://twitter.com/alfe_below)|
 |Qiita|[@alfe_below](https://qiita.com/alfe_below)|
@@ -40,20 +39,6 @@
 - 応用情報技術者試験（2012年04月）
 - 日商簿記2級（2012年06月）
 
-## 強み
-
-- フルスクラッチの状態からアプリ画面の実装を行える
-  - React+TypeScript+GraphQLの環境構築
-  - jQueryなど使わない生ES5+CSSのアプリ構築
-  - [競技プログラミング向けビジュアライザー作成](https://qiita.com/alfe_below/items/eb3a2fdfee384fa45e96) など
-
-
-## やったことはないが興味があるもの
-
-- UI全般
-  - Web画面だけでなく、ゲーム・スマホ・VRのUI設計や開発に興味がある
-
-
 ## 課外活動
 
 ### 執筆歴
@@ -83,18 +68,20 @@
 
 職務: Webアプリケーションエンジニア
 
-#### コールセンター向けオペレーションシステム構築
+#### FutureVuls
 
-- 独自言語で実装された画面をBackbone + Marionetteを用いて画面改修
-
-#### イベント向けデモ画面構築
-
-- GoogleMapAPIを用いたイベント向けのデモ画面構築
+- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の画面統括
 
 #### 新聞社向け基幹システム構築
 
 - 記者向けにカスタマイズされたCMSの画面構築
 
-#### FutureVuls
+#### イベント向けデモ画面構築
 
-- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の画面統括
+- GoogleMapAPIを用いたイベント向けのデモ画面構築
+
+#### コールセンター向けオペレーションシステム構築
+
+- 独自言語で実装された画面をBackbone + Marionetteを用いて画面改修
+
+

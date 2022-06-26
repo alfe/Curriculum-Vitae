@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|key|value|
+|site|link|
 |---|-----|
 |Blog|[FUN YOU BLOG](http://blog.alfebelow.com/)|
 |Twitter|[@alfe_below](https://twitter.com/alfe_below)|
@@ -10,10 +10,11 @@
 
 ## スキル
 
-### 言語
+### 主な開発言語
 - JavaScript
 - TypeScript
-- HTML/CSS
+- HTML
+- CSS
 
 ### 資格
 - 2012年04月 - 応用情報技術者試験
@@ -23,14 +24,17 @@
 
 ### ブログ記事
 - [Qiita - alfe_below](https://qiita.com/alfe_below)
+    - [package.json dependencies メンテの仕方 最短ルート](https://qiita.com/alfe_below/items/1141ec9acbb81b504855) 他
 - [フューチャー技術ブログ](https://future-architect.github.io/authors/%E6%9E%87%E6%A6%94%E6%99%83%E8%A3%95/)
+    - [どうしてHTML5が廃止されたのか](https://future-architect.github.io/articles/20210621a/)
+    - [保守・拡張をしやすいカプセル化したCypress](https://future-architect.github.io/articles/20210428c/) 他
 
 ### 記事執筆・インタビュー掲載
 - [Software Design 2022年4月号 - 短期連載 Cypressで作る“消耗しない”E2Eテスト環境［4］](https://gihyo.jp/magazine/SD/archive/2022/202204)
 - [Software Design 2022年2月号 - 短期連載 Cypressで作る“消耗しない”E2Eテスト環境［2］](https://gihyo.jp/magazine/SD/archive/2022/202202)
 - [Software Design 2018年1月号 - 一般記事 システムのセキュリティ運用をもっと楽に・セキュアに 脆弱性管理サービスFutureVuls登場](https://gihyo.jp/magazine/SD/archive/2018/201801)
 - [Software Design 2017年10月号 - 第2特集 システムのセキュリティチェックをもっと楽に 脆弱性スキャナVuls入門](https://gihyo.jp/magazine/SD/archive/2017/201710)
-- [アカリク Vol.9 - ITコンサルティング企業が創り出すサービス開発の裏側](https://acaric.co.jp/news/2017/10/freepaper_09/) [[file]](https://acaric.co.jp/files/freepaper-acaric-vol9.pdf)
+- [アカリク Vol.9 - ITコンサルティング企業が創り出すサービス開発の裏側](https://acaric.co.jp/news/2017/10/freepaper_09/) [ [file](https://acaric.co.jp/files/freepaper-acaric-vol9.pdf) ]
 
 ### イベント
 - [Future Tech Night #8 ～Cypressで快適！E2Eテストライフ～](https://future.connpass.com/event/208056/)
@@ -41,27 +45,22 @@
 - [ゆるスタック](https://twitter.com/choumirai/status/814096742014562305)(C91・技術書典2)
 - 銀インク本(C90)
 
-### 社外プロジェクト
-- [RECTY](http://recty.strikingly.com/)
-
-### 受賞歴
-- [IoTグローバルアントレプレナー・プロジェクト](https://www.sansokan.jp/events/eve_detail.san?H_A_NO=18279) 優勝
-
-
 ## 経歴
 
 ### 2016/4 - 現在 : フューチャー株式会社
 
-職務: Webアプリケーションエンジニア
+職務: フロントエンドエンジニア
 
 #### FutureVuls
 
-- [Vuls](https://github.com/future-architect/vuls)のSaaS版、[FutureVuls](https://vuls.biz/)の画面統括
+- [Vuls](https://github.com/future-architect/vuls)の有償版、[FutureVuls](https://vuls.biz/)の画面統括
+- サーバの脆弱性をチケット管理するセキュリティSaaSの初期構築～開発・運用、カスタマーサポート、営業など
 - React / Redux / TypeScript / gRPC
 
 #### 新聞社向け基幹システム構築
 
 - 記者向け独自CMSの画面作成
+- jQuery
 
 #### イベント向けデモ画面構築
 
@@ -76,6 +75,3 @@
 ### 2014/4 - 2016/3 奈良先端科学技術大学院大学情報科学研究科 (現 奈良先端科学技術大学院大学先端科学技術研究科先端科学技術専攻情報科学領域)
 
 - 修士（工学）を取得し卒業
-
-
-

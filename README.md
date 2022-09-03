@@ -20,14 +20,14 @@
 - React
     - 業務経験5年以上
     - 主にTypeScriptと併用
-    - + Redux(SPA) 5年程度
-    - Next.js(SSR/SSG) 数ヵ月
+    - ＋ Redux(SPA) 5年程度
+    - ＋ Next.js(SSR/SSG) 数ヵ月
 - Vue.js
     - 業務経験数ヵ月
     - v2のみ
 - Backbone.js
     - 業務経験数ヵ月
-    - + Marionette.js で使用
+    - ＋ Marionette.js で使用
 - jQuery
     - 経験10年以上
     - ランディングページ、プロトタイプページなどで使用

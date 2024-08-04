@@ -40,9 +40,8 @@
 ## 課外活動
 
 ### ブログ記事
-- [Qiita - alfe_below](https://qiita.com/alfe_below)
-    - [package.json dependencies メンテの仕方 最短ルート](https://qiita.com/alfe_below/items/1141ec9acbb81b504855) 他
 - [フューチャー技術ブログ](https://future-architect.github.io/authors/%E6%9E%87%E6%A6%94%E6%99%83%E8%A3%95/)
+    - [package.json dependencies メンテの仕方 最短ルート](https://future-architect.github.io/articles/20240624a/)
     - [どうしてHTML5が廃止されたのか](https://future-architect.github.io/articles/20210621a/)
     - [保守・拡張をしやすいカプセル化したCypress](https://future-architect.github.io/articles/20210428c/) 他
 

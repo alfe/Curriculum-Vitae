@@ -19,10 +19,10 @@
 
 #### フレームワーク
 - React
-    - 業務経験6年以上
+    - 業務経験8年以上
     - 主にTypeScriptと併用
-    - ＋ Redux(SPA) 6年以上
-    - ＋ Next.js(SSR/SSG) 1年以上
+    - ＋ Redux(SPA) 8年以上
+    - ＋ Next.js(SSR/SSG) 1年
 - Vue.js
     - 業務経験数ヵ月
     - v2のみ
@@ -46,7 +46,8 @@
     - [どうしてHTML5が廃止されたのか](https://future-architect.github.io/articles/20210621a/)
     - [保守・拡張をしやすいカプセル化したCypress](https://future-architect.github.io/articles/20210428c/) 他
 
-### 記事執筆・インタビュー掲載
+### 執筆・インタビュー掲載
+- [［入門］Webフロントエンド E2E テスト(エンジニア選書シリーズ)](https://gihyo.jp/book/2024/978-4-297-14220-9)
 - [Software Design 2022年4月号 - 短期連載 Cypressで作る“消耗しない”E2Eテスト環境［4］](https://gihyo.jp/magazine/SD/archive/2022/202204)
 - [Software Design 2022年2月号 - 短期連載 Cypressで作る“消耗しない”E2Eテスト環境［2］](https://gihyo.jp/magazine/SD/archive/2022/202202)
 - [Software Design 2018年1月号 - 一般記事 システムのセキュリティ運用をもっと楽に・セキュアに 脆弱性管理サービスFutureVuls登場](https://gihyo.jp/magazine/SD/archive/2018/201801)
